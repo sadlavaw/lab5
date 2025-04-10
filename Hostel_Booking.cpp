@@ -236,7 +236,6 @@ public:
                             {
                                 flag = 1;
                                 break;
-                                i = 0;
                             }
                             else
                                 i++;
