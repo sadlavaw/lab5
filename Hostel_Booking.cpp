@@ -19,6 +19,7 @@ public:
     {
         for (int i = 0; i < 3; i++)
             header[i] = NULL;
+        cn = NULL;
     }
     void create()
     {
